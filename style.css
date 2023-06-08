@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-left:30%;
+    margin-top: 100px;
+    background-image: linear-gradient(purple, pink);
+}
+div{
+    border: 3px solid white;
+    border-radius: 20px;
+    width: 60%;
+    height: 300px;
+    background-image: radial-gradient(purple,white);
+}
+label1{
+    margin-bottom: 30px;
+    padding: 30px;
+}
